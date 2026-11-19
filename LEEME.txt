@@ -1,0 +1,2 @@
+Guarda aquí tu video (por ejemplo videopodcast.mp4) y en js/config.js escribe:
+  const VIDEO_URL = 'video/videopodcast.mp4';
